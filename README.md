@@ -1,3 +1,5 @@
+**I worked on this test task for 10 hours.**
+
 **To run this project locally, you need:**
 1. Clone using the web URL (https://github.com/yaroslav-lysenko-axon/CrossAgerTest.git) or use a password-protected SSH key (git@github.com:yaroslav-lysenko-axon/CrossAgerTest.git) and open in your IDE via "Get from Version Control" menu;
 2. Find in CrossAgerTest.Host -> Properties -> launchSettings.json. Click Run Profile against the 4th row;
@@ -28,10 +30,10 @@
 ![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/48fef4bf-3f79-4e6e-a417-1c5b1be5ba2c)
 
 6. Clients group table (groups with table_id = null decided to leave):
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/0bb5eb6f-3b89-437e-a5b9-3dc11600e45a)
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/79640226-8c3f-41af-b47b-02d688ac5d18)
+<br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/0bb5eb6f-3b89-437e-a5b9-3dc11600e45a)
+<br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/79640226-8c3f-41af-b47b-02d688ac5d18)
 
 7. Table table:
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/9008102a-170e-43c5-9771-b5a796abb14d)
+<br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/9008102a-170e-43c5-9771-b5a796abb14d)
 
 
