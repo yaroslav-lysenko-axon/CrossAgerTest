@@ -1,0 +1,17 @@
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/CrossAgerTest.Domain.deps.json
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/CrossAgerTest.Domain.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/CrossAgerTest.Domain.pdb
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/AutoMapper.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/AutoMapper.xml
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/bin/Debug/net8.0/Newtonsoft.Json.xml
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.csproj.AssemblyReference.cache
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.AssemblyInfoInputs.cache
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.AssemblyInfo.cs
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.csproj.CopyComplete
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/refint/CrossAgerTest.Domain.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/CrossAgerTest.Domain.pdb
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Domain/obj/Debug/net8.0/ref/CrossAgerTest.Domain.dll

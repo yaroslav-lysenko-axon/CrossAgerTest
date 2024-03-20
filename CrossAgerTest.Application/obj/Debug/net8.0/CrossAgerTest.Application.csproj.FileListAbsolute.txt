@@ -1,0 +1,17 @@
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/CrossAgerTest.Application.deps.json
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/CrossAgerTest.Application.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/CrossAgerTest.Application.pdb
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/AutoMapper.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/CrossAgerTest.Domain.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/CrossAgerTest.Domain.pdb
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/bin/Debug/net8.0/AutoMapper.xml
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.csproj.AssemblyReference.cache
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.AssemblyInfoInputs.cache
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.AssemblyInfo.cs
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.csproj.CoreCompileInputs.cache
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.csproj.CopyComplete
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/refint/CrossAgerTest.Application.dll
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/CrossAgerTest.Application.pdb
+/home/user/Documents/Files/TestProjects/CrossAgerTest/CrossAgerTest.Application/obj/Debug/net8.0/ref/CrossAgerTest.Application.dll
