@@ -29,7 +29,7 @@
 5. Delete clients group by id from table and this table was filled out by the groups from the queue:
 ![image (8)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/e21dd3de-9ff3-4eec-8cf8-8c5889dca490)
 
-6. Clients group table (groups with table_id = null decided to leave):
+6. Clients group table (groups with table_id = null decided to leave from queue):
 <br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/0bb5eb6f-3b89-437e-a5b9-3dc11600e45a)
 <br>![image (6)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/599fe20d-c9bd-4e58-b3ff-aed067472b1e)
 
