@@ -15,25 +15,25 @@
 
 **Local screenshoots:**
 1. Get all tables:
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/2f44463a-0cb4-45b3-932c-b9439f46d1b9)
+![image (7)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/2803f6e8-dfdf-4198-a6bb-49a5529bc1d5)
 
 2. Get clients group by id:
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/7b1bd52f-0d76-48e4-be2a-67bcfebe93d9)
+![image (3)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/aa99acf3-5069-4e73-a715-864b82b446c3)
 
 3. Create clients group (OnArrive method in service):
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/80df98d7-8781-48cd-9f8d-fb98e8f85dcb)
+![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/9a2b7346-3b87-4e0e-9ceb-4de2b98f052e)
 
 4. Delete clients group by id from queue and this group doesn't attended any tables:
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/bb8d850f-1aad-400b-90c2-30d86bbf72c9)
+![image (9)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/26f8978f-f2b1-4d75-8ad5-59d3caadaaaa)
 
 5. Delete clients group by id from table and this table was filled out by the groups from the queue:
-![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/48fef4bf-3f79-4e6e-a417-1c5b1be5ba2c)
+![image (8)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/e21dd3de-9ff3-4eec-8cf8-8c5889dca490)
 
 6. Clients group table (groups with table_id = null decided to leave):
 <br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/0bb5eb6f-3b89-437e-a5b9-3dc11600e45a)
-<br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/79640226-8c3f-41af-b47b-02d688ac5d18)
+<br>![image (6)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/599fe20d-c9bd-4e58-b3ff-aed067472b1e)
 
 7. Table table:
-<br>![image](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/9008102a-170e-43c5-9771-b5a796abb14d)
+<br>![image (5)](https://github.com/yaroslav-lysenko-axon/CrossAgerTest/assets/88324041/029dd3dc-adc6-427c-adc9-b48e04fb620e)
 
 
