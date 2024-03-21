@@ -11,7 +11,7 @@
 1. Get tables (GET);
 2. Get clients group by id (GET);
 3. Create clients group (POST);
-4. Delete clients group by id (DELETE);
+4. Delete clients group by id (DELETE). I have decided not to delete clients completely, but will instead mark their state as 'Completed'.
 
 **Local screenshoots:**
 1. Get all tables:
